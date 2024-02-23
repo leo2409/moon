@@ -7,3 +7,7 @@ int main(int argc, char const *argv[])
     }
     return 0;
 }
+
+int test_func() {
+    return 0;
+}
